@@ -1,25 +1,30 @@
-CODEWARS
+<h1 align="center">Codewars</h1>
 
-Achieve code mastery through challenge
-Training Manual
-Master
+<h3 align="center">Achieve code mastery through challenge</h3>
+
+<h4 align="center">Training Manual<br />
+Master<br />
 4 dan
 3 dan
 2 dan
-1 dan
-Proficient
+1 dan<br />
+<br />
+Proficient<br />
 1 kyu
-2 kyu
-Competent
+2 kyu<br />
+<br />
+Competent<br />
 3 kyu
-4 kyu
-Novice
+4 kyu<br />
+<br />
+Novice<br />
 5 kyu
-6 kyu
-Beginner
+6 kyu<br />
+<br />
+Beginner<br />
 7 kyu
-8 kyu
-Kata
+8 kyu<br />
+Kata</h4>
 In our dojo, kata are real code challenges focused on improving skill and technique. Some train programming fundamentals, while others focus on complex problem solving. Each kata is crafted for and by the community.
 
 Kyu/Dan Ranks
